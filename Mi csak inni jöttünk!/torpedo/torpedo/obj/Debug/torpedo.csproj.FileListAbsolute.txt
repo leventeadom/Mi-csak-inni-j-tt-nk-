@@ -1,0 +1,6 @@
+C:\Users\delld\Desktop\Mi csak inni jöttünk!\torpedo\torpedo\bin\Debug\torpedo.exe.config
+C:\Users\delld\Desktop\Mi csak inni jöttünk!\torpedo\torpedo\obj\Debug\torpedo.csprojResolveAssemblyReference.cache
+C:\Users\delld\Desktop\Mi csak inni jöttünk!\torpedo\torpedo\bin\Debug\torpedo.exe
+C:\Users\delld\Desktop\Mi csak inni jöttünk!\torpedo\torpedo\bin\Debug\torpedo.pdb
+C:\Users\delld\Desktop\Mi csak inni jöttünk!\torpedo\torpedo\obj\Debug\torpedo.exe
+C:\Users\delld\Desktop\Mi csak inni jöttünk!\torpedo\torpedo\obj\Debug\torpedo.pdb
